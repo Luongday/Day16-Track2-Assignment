@@ -20,3 +20,5 @@ lab-key.pub
 # Environment Variables
 .env
 .env.local
+# Original screenshots (contain AWS account ID) - redacted copies are inside Lab16_submission.zip
+screenshots/
